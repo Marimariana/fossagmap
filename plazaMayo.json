@@ -48,7 +48,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/innovation.microsoft.com\/en-us\/planetary-computer"
+                 "value":"<iframe src="innovation.microsoft.com\/en-us\/planetary-computer"></iframe>"
                 }],
          "type":"tilelayer",
          "visible":true,
