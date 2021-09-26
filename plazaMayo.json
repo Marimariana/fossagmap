@@ -76,7 +76,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/innovation.microsoft.com\/en-us\/planetary-computer"
+                 "value":"https:\/\/planetarycomputer.microsoft.com"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
